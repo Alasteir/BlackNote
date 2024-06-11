@@ -47,6 +47,7 @@ class MainActivity : AppCompatActivity() {
                 adapter.insert(text, 0)
                 enterText.text.clear()
 
+
             }
         }
     }
